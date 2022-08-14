@@ -1,6 +1,6 @@
 # NFT Collectibles using Blender Python
 
-![image](https://blog.hdks.org/images/Create-NFT-3D-Collectibles-Using-Blender-Scripting/top_image.png)
+![image](https://blog.hdks.org/img/create-nft-3d-collectibles-using-blender-scripting/top_image.png)
 
 ## What is this?
 
